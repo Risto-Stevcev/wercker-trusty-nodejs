@@ -18,5 +18,4 @@ script: |
   sudo apt-get install -y aptitude
   sudo aptitude update
   sudo aptitude safe-upgrade
-  sudo apt-get install -y firefox chromium-browser npm nodejs git build-essential
-  sudo update-alternatives --install /usr/bin/node node /usr/bin/nodejs 10
+  sudo apt-get install -y firefox chromium-browser npm nodejs-legacy git build-essential
