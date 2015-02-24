@@ -19,3 +19,4 @@ script: |
   sudo aptitude update
   sudo aptitude safe-upgrade
   sudo apt-get install -y firefox chromium-browser npm nodejs build-essential
+  sudo update-alternatives --install /usr/bin/node node /usr/bin/nodejs 10
