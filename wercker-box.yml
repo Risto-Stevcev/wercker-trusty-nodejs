@@ -1,5 +1,5 @@
 name: ubuntu14.04-nodejs
-version: 1.0.5
+version: 1.0.6
 description: Ubuntu 12.04 upgraded to 14.04 with NodeJS, Firefox and Chromium
 type: main
 platform: ubuntu@12.04
